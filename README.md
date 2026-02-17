@@ -31,6 +31,7 @@ This project provides the tools and methodology to transform a raw car audio sys
 
 ## 📚 Documentation
 - [Methodology](docs/METHODOLOGY.md): The "why" and "how" of our acoustic approach.
+- [REW Pro Optimization](docs/REW_PRO_OPTIMIZATION.md): Advanced features for Pro license holders.
 - [Audison Protocol](docs/AUDISON_PROTOCOL.md): Specific mapping for Audison AP bit software.
 - [Example Case Study](examples/E70_X5D_Results.md): Full tuning log of a 2012 BMW X5D.
 
