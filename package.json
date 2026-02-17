@@ -1,0 +1,16 @@
+{
+  "name": "rew-bridge",
+  "version": "1.0.0",
+  "description": "REW Bridge for MCP",
+  "main": "rew-bridge.js",
+  "scripts": {
+    "start": "node rew-bridge.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "axios": "^1.13.5"
+  }
+}
